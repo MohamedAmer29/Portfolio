@@ -213,7 +213,7 @@
             class="w-14 h-14 rounded-full border-3 border-gray-400 hover:border-white cursor-pointer !p-2 hover:!opacity-100 !ml-4 transition-all duration-300"
           >
             <a
-              href="https://mohamedamer29.github.io/Pinia-Tasks-Management_App/"
+              href="https://mohamedamer29.github.io/Pinia-Task-Management_App/"
               target="_blank"
             >
               <img src="/src/assets/eye.png" alt="Eye Image" />
