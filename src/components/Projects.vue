@@ -193,7 +193,7 @@
       <div class="imgWrapper relative">
         <img
           class="h-[24rem] max-md:h-[20rem] max-sm:h-[16rem] rounded-t-2xl"
-          src="/src/assets/piniaTask.png"
+          src="./src/assets/piniaTask.png"
           alt="Game Blogs Image"
         />
         <div
