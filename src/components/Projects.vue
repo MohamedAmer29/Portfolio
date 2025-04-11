@@ -193,7 +193,7 @@
       <div class="imgWrapper relative">
         <img
           class="h-[24rem] max-md:h-[20rem] max-sm:h-[16rem] rounded-t-2xl"
-          src="/src/assets/piniaTasks.png"
+          src="/src/assets/piniaTask.png"
           alt="Game Blogs Image"
         />
         <div
@@ -213,7 +213,7 @@
             class="w-14 h-14 rounded-full border-3 border-gray-400 hover:border-white cursor-pointer !p-2 hover:!opacity-100 !ml-4 transition-all duration-300"
           >
             <a
-              href="https://mohamedamer29.github.io/Pinia-Task-Management_App/"
+              href="https://mohamedamer29.github.io/Pinia-Tasks-Management_App/"
               target="_blank"
             >
               <img src="/src/assets/eye.png" alt="Eye Image" />
