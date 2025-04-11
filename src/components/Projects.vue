@@ -75,7 +75,7 @@
       <div class="imgWrapper relative">
         <img
           class="h-[24rem] max-md:h-[20rem] max-sm:h-[16rem] rounded-t-2xl"
-          src="/src/assets/restaurant.png"
+          src="/src/assets/Res.png"
           alt="Game Blogs Image"
         />
         <div
