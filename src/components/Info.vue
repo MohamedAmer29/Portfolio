@@ -63,7 +63,7 @@ const scrollSpecific = (id: string) => {
       block: "start",
     });
   }
-};
+};/// @ts-nocheck
 import { VueFlip } from "vue-flip";
 </script>
 
