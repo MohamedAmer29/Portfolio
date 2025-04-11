@@ -1,0 +1,44 @@
+{
+  "name": "portfolio",
+  "version": "0.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "run-p type-check \"build-only {@}\" --",
+    "preview": "vite preview",
+    "build-only": "vite build",
+    "type-check": "vue-tsc --build"
+  },
+  "dependencies": {
+    "@emailjs/browser": "^4.4.1",
+    "@primeuix/themes": "^1.0.1",
+    "@tailwindcss/vite": "^4.1.2",
+    "@vueuse/motion": "^3.0.3",
+    "honeycomb-grid": "^4.1.5",
+    "primeicons": "^7.0.0",
+    "primevue": "^4.3.3",
+    "tailwindcss": "^4.1.2",
+    "vue": "^3.5.13",
+    "vue-flip": "^3.0.2",
+    "vue-router": "^4.5.0",
+    "vue-typer": "^1.2.0",
+    "vue-typewriter-effect": "^1.0.1",
+    "vue-writer": "^2.0.2",
+    "vue3-highlightjs": "^1.0.5",
+    "vuetify": "^3.8.0"
+  },
+  "devDependencies": {
+    "@tsconfig/node22": "^22.0.1",
+    "@types/node": "^22.13.14",
+    "@types/vue-writer": "^1.2.0",
+    "@vitejs/plugin-vue": "^5.2.3",
+    "@vue/tsconfig": "^0.7.0",
+    "npm-run-all2": "^7.0.2",
+    "typescript": "~5.8.0",
+    "vite": "^6.2.4",
+    "vite-plugin-vue-devtools": "^7.7.2",
+    "vite-plugin-vuetify": "^2.1.1",
+    "vue-tsc": "^2.2.8"
+  }
+}
