@@ -193,7 +193,7 @@
       <div class="imgWrapper relative">
         <img
           class="h-[24rem] max-md:h-[20rem] max-sm:h-[16rem] rounded-t-2xl"
-          src="/src/assets/piniaTask.png"
+          src="/src/assets/Pinia.png"
           alt="Game Blogs Image"
         />
         <div
@@ -253,8 +253,8 @@
       <div class="imgWrapper relative">
         <img
           class="h-[24rem] max-md:h-[20rem] max-sm:h-[16rem] rounded-t-2xl"
-          src="/src/assets/firebasetodo.png"
-          alt="Game Blogs Image"
+          src="/src/assets/FBTodo.png"
+          alt="simple todo Image"
         />
         <div
           class="absolute opacity-0 w-full h-full top-0 rounded-t-lg flex justify-center items-center hover:!opacity-100 z-50 transition-all bg-gray-600/[var(--bg-opacity)] [--bg-opacity:50%] !duration-300 max-sm:!opacity-100 max-sm:hover:!opacity-100 max-sm:absolute max-sm:h-[4rem] max-sm:!bg-transparent max-sm:!justify-between max-sm:!p-2"
