@@ -19,3 +19,5 @@ This portfolio not only demonstrates my technical stack but also represents my a
 🔗  **Live Site** : [https://fascinating-centaur-7bb001.netlify.app](https://fascinating-centaur-7bb001.netlify.app)
 
 Whether you're a recruiter, potential collaborator, or just a curious visitor, I hope this site gives you a good impression of who I am and what I can do.
+
+![PleaseHireMeWorkGIF](https://github.com/user-attachments/assets/bf39634e-56eb-4fc1-ae80-512bce8823d0)
