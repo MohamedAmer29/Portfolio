@@ -24,7 +24,7 @@
           id="btn2"
           
         >
-          <a href="/CV.pdf" download="CV.pdf" >
+          <a href="/src/assets/CV.pdf" download="CV.pdf" >
             <i class="pi pi-download"></i>
           Download Resume
           </a>
