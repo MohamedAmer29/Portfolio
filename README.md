@@ -16,7 +16,7 @@ Performance optimization is a key consideration, and Vite makes the development 
 
 This portfolio not only demonstrates my technical stack but also represents my approach to development—clean code, attention to detail, and an appreciation for both function and aesthetics. It’s more than just a website; it’s a personal brand hub, resume, and project showcase all in one.
 
-🔗  **Live Site** : [https://fascinating-centaur-7bb001.netlify.app](https://fascinating-centaur-7bb001.netlify.app)
+🔗  **Live Site** : [[https://fascinating-centaur-7bb001.netlify.app](https://fascinating-centaur-7bb001.netlify.app)](https://cool-cranachan-bcbbb7.netlify.app/)
 
 Whether you're a recruiter, potential collaborator, or just a curious visitor, I hope this site gives you a good impression of who I am and what I can do.
 
