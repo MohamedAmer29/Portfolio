@@ -24,7 +24,7 @@
           id="btn2"
           
         >
-          <a href="src/assets/CV.pdf" download="CV.pdf" >
+          <a href="https://raw.githubusercontent.com/MohamedAmer29/Portfolio/refs/heads/master/src/assets/CV.pdf" download="CV.pdf" >
             <i class="pi pi-download"></i>
           Download Resume
           </a>
