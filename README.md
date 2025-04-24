@@ -1,6 +1,7 @@
 
 # 🌐 Personal Portfolio – Built with Vue.js & Vite
 
+
 This project is my personal developer portfolio website, designed and developed using **Vue.js** along with the fast and efficient **Vite** build tool. It serves as a professional digital presence where I showcase my skills, experience, and the projects I’ve worked on. The goal of this portfolio is not only to highlight my technical abilities but also to reflect my eye for design, responsiveness, and user-centric interaction.
 
 The landing page introduces visitors to who I am, featuring a clean hero section with my name, role, and a short tagline or mission. From there, users can scroll or navigate through other key sections:  **About Me** ,  **Skills** ,  **Projects** , and  **Contact** . Each section is carefully structured to be both informative and visually engaging.
