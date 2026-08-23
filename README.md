@@ -15,7 +15,10 @@ From a technical standpoint, the site is built with component-based architecture
 
 Performance optimization is a key consideration, and Vite makes the development experience fast and enjoyable while also providing optimized production builds. The site is fully responsive and has been tested on multiple screen sizes to ensure accessibility and usability.
 
-This portfolio not only demonstrates my technical stack but also represents my approach to development—clean code, attention to detail, and an appreciation for both function and aesthetics. It’s more than just a website; it’s a personal brand hub, resume, and project showcase all in one.
+This portfolio not only demonstrates my technical stack but also represents my approach to development—clean code, attention to detail, and an appreciation for both function and aesthetics. It’s more than just a website; it’s a personal brand hub, resume, and project showcase all in one.   
+
+
+
 
 🔗  **Live Site** : [(https://fascinating-centaur-7bb001.netlify.app)](https://cool-cranachan-bcbbb7.netlify.app/)](https://cool-cranachan-bcbbb7.netlify.app/)
 
